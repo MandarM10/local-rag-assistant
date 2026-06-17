@@ -29,11 +29,11 @@ The entire pipeline runs locally without relying on external APIs.
 
 ## Architecture
 
-![Architecture](architecture/rag_architecture.png)
+![Architecture](architecture_screenshots/rag_architecture.png)
 
 ### Flow Diagram
 
-![Flow Diagram](application_screenshots\mermaid_diagram.png)
+![Flow Diagram](application_screenshots/mermaid_diagram.png)
 
 ---
 
