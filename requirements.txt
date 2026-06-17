@@ -1,0 +1,9 @@
+torch==2.11.0+cu126
+#pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+transformers==5.5.0
+streamlit==1.56.0
+pypdf==6.9.2
+python-dotenv==1.2.2
+huggingface_hub==1.9.0
+accelerate==1.13.0
+safetensors==0.7.0
